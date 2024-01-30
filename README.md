@@ -1,5 +1,7 @@
-# softeng-bootcamp
- Software Engineering Skills Bootcamp Projects
-All capstone and portfolio projects completed during skills bootcamp using Python. 
+# Finance Calculator Python Application
 
-01 - create a finance calculator that allows a user access to two calculators. One for reinvestment and one for repayment on a mortgage. Utilised casting to ensure user's input would be recognised in multiple formats. 
+Project created as part of Hyperion Dev Skills Bootcamp.
+
+Prompt: create a finance calculator, that allows a user access to two calculators. The user is presented with a menu to select the appropriate calculator for whether they wish to calculate their investment bonuses or their repayments on a house loan. 
+
+This program utilises casting to ensure a user's input is recognised in multiple formats, for better UX.
